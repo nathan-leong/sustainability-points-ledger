@@ -1,0 +1,1 @@
+The client of the Sustainability Points Ledger built with ReactJS and Moralis to interact with web3.
